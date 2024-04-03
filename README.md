@@ -18,8 +18,7 @@
     ```
     This command sets the `SITE_NAME` environment variable to `abc.zymmr.com` and then starts the Docker containers defined in the `docker-compose.yml` file in detached mode (`-d` flag).
 
-6. Once the containers are up and running, you can verify that everything is working as expected. You can access your website by opening a web browser and navigating to `http://<server-ip>.zymmr.com` if you've configured DNS or hosts file accordingly.
-
+6. Once the containers are up and running, you can verify that everything is working as expected. You can access Zymmmr by opening a web browser and navigating to `http://<server-ip>.zymmr.com` 
 
 ## Linux
 
@@ -37,4 +36,4 @@
     ```
     This command sets the `SITE_NAME` environment variable to `abc.zymmr.com` and then starts the Docker containers defined in the `docker-compose.yml` file in detached mode (`-d` flag).
 
-6. Once the containers are up and running, you can verify that everything is working as expected. You can access your website by opening a web browser and navigating to `http://<server-ip>.zymmr.com` if you've configured DNS or hosts file accordingly.
+6. Once the containers are up and running, you can verify that everything is working as expected. You can access your Zymmr by opening a web browser and navigating to `http://<server-ip>.zymmr.com` 
